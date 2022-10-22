@@ -1,0 +1,17 @@
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.csproj.AssemblyReference.cache
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.csproj.SuggestedBindingRedirects.cache
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.Form1.resources
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.Form2.resources
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.Properties.Resources.resources
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.UserControl_accueil.resources
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.UserControl_ajouter_client.resources
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.UserControl_ajouter_service.resources
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.UserControl_chambre.resources
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.UserControl_ropas.resources
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.csproj.GenerateResource.cache
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.csproj.CoreCompileInputs.cache
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\bin\Debug\Gestion_Hotel_Submti.exe.config
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\bin\Debug\Gestion_Hotel_Submti.exe
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\bin\Debug\Gestion_Hotel_Submti.pdb
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.exe
+A:\asp_project.net\Gestion_Hotel_Submti\Gestion_Hotel_Submti\obj\Debug\Gestion_Hotel_Submti.pdb
